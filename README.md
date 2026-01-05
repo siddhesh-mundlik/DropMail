@@ -50,14 +50,14 @@ JavaScript
 GitHub Pages (Hosting)
 HTML, CSS & Javascript also used API for fetching E-mails.
 
-🔐 Use Cases
+## 🔐 Use Cases
 Quick OTP verification
 Testing signup flows
 Avoiding spam emails
 Anonymous registrations
 Developers & testers
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions and improvements are welcome!
 To contribute:
 Fork the repository
@@ -71,7 +71,7 @@ Push to your fork
 Open a Pull Request 🚀
 
 
-🪪 Credits :-
+## 🪪 Credits :-
 Made with ♥️ by Siddheshmundlik08
 Developed by © Siddhesh 2025
 

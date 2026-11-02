@@ -39,7 +39,7 @@ This concept is similar to online temporary email services which offer anonymous
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Siddheshmundlik08/DropMail.git
+   git clone https://github.com/siddhesh-mundlik/DropMail.git
 
 
 ## 💡 Technologies Used
@@ -72,7 +72,7 @@ Open a Pull Request 🚀
 
 
 ## 🪪 Credits :-
-Made with ♥️ by Siddheshmundlik08
+Made with ♥️ by Siddhesh Mundlik
 Developed by © Siddhesh 2025
 
 ⭐ If you like this project, don’t forget to star the repo!
